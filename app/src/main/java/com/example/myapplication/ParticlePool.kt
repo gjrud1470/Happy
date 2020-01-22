@@ -4,7 +4,7 @@ import android.graphics.Canvas
 import android.util.Log
 
 class ParticlePool {
-    private val POOL_SIZE = 1000
+    private val POOL_SIZE = 1500
     private var particles_ = Array<Particle>(POOL_SIZE, {i -> Particle()})
     private var first_available : Int? = 0
 
