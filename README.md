@@ -1,6 +1,6 @@
 # Madcamp Week1 Project
 Usage of tabs on android application
-Made by 허경 and 이제인 (https://github.com/HelloJaneJane)
+Made by 허경 and 이제인 (https://github.com/HelloJaneJane) using Kotlin
 
 홈 탭 + 3개의 탭이 있는 안드로이드 앱 \
 (탭 사이 swipe기능은 홈과 그림판에 방해되어 제거됨) \
